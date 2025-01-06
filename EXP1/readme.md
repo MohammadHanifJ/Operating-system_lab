@@ -2,5 +2,5 @@
 
 ## GENERAL COMMANDS OUTPUTS
 
-# Unmme commmand manual
+# Uname command 
 ![unmame command](unamen.png)
