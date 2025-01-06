@@ -2,5 +2,5 @@
 
 ## GENERAL COMMANDS OUTPUTS
 
-# uname-n command 
+# uname -n command 
 ![unmame command](unamen.png)
