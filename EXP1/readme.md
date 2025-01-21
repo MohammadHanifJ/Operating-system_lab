@@ -41,7 +41,7 @@
 ### WHO AM I COMMAND OUTPUT 
 ![who am i command output](whoami.png)
 ### WHO AM I COMMAND MANUAL
-![who am i command manual](mwhoam.png)
+![who am i command manual](mwho.png)
 ### TTY COMMAND OUTPUT -TERMINAL NAME-
 ![tty command output](tty.png)
 ### TTY COMMAND MANUAL
