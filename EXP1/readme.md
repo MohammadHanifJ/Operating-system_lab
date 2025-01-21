@@ -68,7 +68,6 @@
 ![bc command output](bc.png)
 ### BC - BASIC CALCULATOR COMMAND MANUAL
 ![bc command manual](mbc.png)
-## IP FILE COMMANDS
 ### HISTORY COMMAND OUTPUT
 ![history command output](history.png)
 ### HISTORY COMMAND MANUAL 
