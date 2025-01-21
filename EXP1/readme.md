@@ -1,4 +1,4 @@
-# BASIC UNIX COMMANDS PRACTISE OUTPUT
+# AIM : PRACTICE OF BASIC UNIX COMMANDS
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
 ![date command output](date.png)   
@@ -176,4 +176,4 @@
 
 
 
-# The Study And Execution Of Unix Commands Has Been Completed Successfully.
+#CONCLUSION: The Study And Execution Of Unix Commands Has Been Completed Successfully.
