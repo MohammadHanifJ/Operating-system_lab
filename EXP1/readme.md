@@ -171,8 +171,6 @@
 ![cmp command output](cmp.png)
 ### CMP COMMAND MANUAL
 ![cmp command manual](mcmp.png)
-### CHMOD COMMAND OUTPUT
-![chmod command output](chmod.png)
 ### CHMOD COMMAND MANUAL
 ![chmod command manual](mchmod.png)
 
